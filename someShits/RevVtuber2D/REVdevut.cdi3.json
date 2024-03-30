@@ -1,0 +1,285 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "BrowL X"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "Hair Move Front"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "Hair Move Side"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "Hair Move Back"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "gorro",
+			"Name": "gorro"
+		},
+		{
+			"Id": "boca",
+			"Name": "boca"
+		},
+		{
+			"Id": "orejaL",
+			"Name": "orejaL"
+		},
+		{
+			"Id": "orejaR",
+			"Name": "orejaR"
+		},
+		{
+			"Id": "copete02",
+			"Name": "copete02"
+		},
+		{
+			"Id": "copete01",
+			"Name": "copete01"
+		},
+		{
+			"Id": "ojoL",
+			"Name": "ojoL"
+		},
+		{
+			"Id": "ojoR",
+			"Name": "ojoR"
+		},
+		{
+			"Id": "cabeza",
+			"Name": "cabeza"
+		},
+		{
+			"Id": "brazoL",
+			"Name": "brazoL"
+		},
+		{
+			"Id": "brazoR",
+			"Name": "brazoR"
+		},
+		{
+			"Id": "chaqueta",
+			"Name": "chaqueta"
+		},
+		{
+			"Id": "cuello",
+			"Name": "cuello"
+		},
+		{
+			"Id": "pantalones",
+			"Name": "pantalones"
+		},
+		{
+			"Id": "peloAtras",
+			"Name": "peloAtras"
+		},
+		{
+			"Id": "ChaquetaAtras",
+			"Name": "ChaquetaAtras"
+		},
+		{
+			"Id": "bocaUp",
+			"Name": "bocaUp"
+		},
+		{
+			"Id": "boca2",
+			"Name": "boca"
+		},
+		{
+			"Id": "bocaDown",
+			"Name": "bocaDown"
+		},
+		{
+			"Id": "Part",
+			"Name": "oreja01 Copy"
+		},
+		{
+			"Id": "Part2",
+			"Name": "oreja02 Copy"
+		},
+		{
+			"Id": "oreja01",
+			"Name": "oreja01"
+		},
+		{
+			"Id": "oreja02",
+			"Name": "oreja02"
+		},
+		{
+			"Id": "Part3",
+			"Name": "ojoRceja Copy"
+		},
+		{
+			"Id": "Part4",
+			"Name": "parpadoRdown Copy"
+		},
+		{
+			"Id": "Part5",
+			"Name": "parpadoRup Copy"
+		},
+		{
+			"Id": "Part6",
+			"Name": "ojoRiris Copy"
+		},
+		{
+			"Id": "Part7",
+			"Name": "ojoRblabco Copy"
+		},
+		{
+			"Id": "ojoRceja",
+			"Name": "ojoRceja"
+		},
+		{
+			"Id": "parpadoRdown",
+			"Name": "parpadoRdown"
+		},
+		{
+			"Id": "parpadoRup",
+			"Name": "parpadoRup"
+		},
+		{
+			"Id": "ojoRiris",
+			"Name": "ojoRiris"
+		},
+		{
+			"Id": "ojoRblabco",
+			"Name": "ojoRblabco"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		]
+	]
+}

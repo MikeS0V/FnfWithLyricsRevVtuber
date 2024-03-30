@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "REVdevut.moc3",
+		"Textures": [
+			"REVdevut.2048/texture_00.png"
+		],
+		"Physics": "REVdevut.physics3.json",
+		"DisplayInfo": "REVdevut.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
